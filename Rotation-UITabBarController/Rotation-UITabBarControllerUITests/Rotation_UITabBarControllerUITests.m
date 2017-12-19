@@ -2,7 +2,7 @@
 //  Rotation_UITabBarControllerUITests.m
 //  Rotation-UITabBarControllerUITests
 //
-//  Created by Artron_LQQ on 2016/12/6.
+//  Created by LeiLuRong on 2016/12/6.
 //  Copyright © 2016年 Artup. All rights reserved.
 //
 

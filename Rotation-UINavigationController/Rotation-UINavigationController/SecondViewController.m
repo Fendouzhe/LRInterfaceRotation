@@ -2,7 +2,7 @@
 //  SecondViewController.m
 //  Rotation-Navigation
 //
-//  Created by Artron_LQQ on 16/4/6.
+//  Created by LeiLuRong on 16/4/6.
 //  Copyright © 2016年 Artup. All rights reserved.
 //
 
